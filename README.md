@@ -1,1 +1,1 @@
-# DCGAN
+# DCGAN implepentation using Keras
